@@ -11,7 +11,7 @@ using ICSharpCode.SharpZipLib.Zip;
 namespace Utility
 {
     /// <summary>
-    ///     TODO: Update summary..
+    ///     TODO: Update summary.
     /// </summary>
     public class ZipHelper
     {

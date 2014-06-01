@@ -179,6 +179,7 @@ namespace Utility
 
                 string line = sr.ReadLine();
 
+                // todo: need to add function to skip create column
                 if (line != null)
                 {
                     GenerateColumns(line);

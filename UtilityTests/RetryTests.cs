@@ -87,7 +87,7 @@ namespace Utility.Tests
             }
 
             Debug.WriteLine(retries.ToString());
-            Assert.IsTrue(retries == 10);
+            Assert.IsTrue(retries == 3);
         }
     }
 }
